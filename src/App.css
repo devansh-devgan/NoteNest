@@ -1,0 +1,14 @@
+.masonry-grid {
+    display: flex;
+    margin-left: 1vw;
+    width: auto;
+}
+  
+.masonry-sizer, .masonry-item {
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+
+.category {
+    margin-left: 1.8vw;
+}

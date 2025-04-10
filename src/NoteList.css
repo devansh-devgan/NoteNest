@@ -1,0 +1,206 @@
+/* 5-columns */
+@media (max-width: 1575px) {
+    .note-list > *:not(.not-found) {
+        margin-left: -0.5vw
+    }
+}
+
+
+/* 4-columns */
+@media (max-width: 1562px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 8vw
+    }
+}
+@media (max-width: 1500px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 6vw
+    }
+}
+@media (max-width: 1450px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 5vw
+    }
+}
+@media (max-width: 1400px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 3vw
+    }
+}
+@media (max-width: 1325px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 1vw
+    }
+}
+@media (max-width: 1300px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 0.5vw
+    }
+}
+@media (max-width: 1275px) {
+    .note-list > *:not(.not-found) {
+        margin-left: -1vw
+    }
+}
+
+
+/* 3-columns */
+@media (max-width: 1262px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 10vw
+    }
+}
+@media (max-width: 1200px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 9vw
+    }
+}
+@media (max-width: 1150px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 8vw
+    }
+}
+@media (max-width: 1125px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 6vw
+    }
+}
+@media (max-width: 1100px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 5vw
+    }
+}
+@media (max-width: 1075px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 4vw
+    }
+}
+@media (max-width: 1050px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 3vw
+    }
+}
+@media (max-width: 1025px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 2vw
+    }
+}
+@media (max-width: 1000px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 1vw
+    }
+}
+@media (max-width: 975px) {
+    .note-list > *:not(.not-found) {
+        margin-left: -1vw
+    }
+}
+
+
+/* 2-columns */
+@media (max-width: 962px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 12vw
+    }
+}
+@media (max-width: 900px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 11vw
+    }
+}
+@media (max-width: 875px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 9vw
+    }
+}
+@media (max-width: 850px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 8vw
+    }
+}
+@media (max-width: 800px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 7vw
+    }
+}
+@media (max-width: 775px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 6vw
+    }
+}
+@media (max-width: 750px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 5vw
+    }
+}
+@media (max-width: 725px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 4vw
+    }
+}
+@media (max-width: 700px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 2vw
+    }
+}
+@media (max-width: 675px) {
+    .note-list > *:not(.not-found) {
+        margin-left: 0vw
+    }
+}
+
+
+
+/* 1-column */
+/* NoteCard Width */
+.note-card {
+    width: 280px;
+}
+@media (max-width: 662px) {
+    .note-card {
+        width: 89vw;
+    }
+    .note-list > *:not(.not-found) {
+        margin-left: -3vw
+    }
+    .note-list h2 {
+        margin-left: 3vw;
+    }
+}
+@media (max-width: 550px) {
+    .note-card {
+        width: 88vw;
+    }
+    .note-list > *:not(.not-found) {
+        margin-left: -4vw
+    }
+    .note-list h2 {
+        margin-left: 4vw;
+    }
+}
+@media (max-width: 500px) {
+    .note-card {
+        width: 87vw;
+    }
+}
+@media (max-width: 450px) {
+    .note-card {
+        width: 86vw;
+    }
+    .note-list > *:not(.not-found) {
+        margin-left: -5vw
+    }
+}
+@media (max-width: 400px) {
+    .note-card {
+        width: 84vw;
+    }
+}
+@media (max-width: 350px) {
+    .note-card {
+        width: 82vw;
+    }
+    .note-list > *:not(.not-found) {
+        margin-left: -6vw
+    }
+}
